@@ -1,7 +1,7 @@
 # GameofDice
 The "Game of Dice" is a multiplayer game where N players roll a 6 faced dice in a round-robin fashion. Each time a player rolls the dice their points increase by the number (1 to 6) achieved by the roll.
 
-The main file is [Main.java](https://github.com/bipin2806/GameofDiceAssignment/blob/master/src/com/greatlearning/Main.java).
+The main file is [Main.java](https://github.com/bipin2806/GameofDiceAssignment/blob/master/GameofDice/src/com/greatlearning/Main.java).
 
 Run using runnable JAR
 -----
