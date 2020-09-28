@@ -11,7 +11,7 @@ Setup
         https://github.com/bipin2806/GameofDiceAssignment.git
 
 * In Eclipse, Run > Run Configurations...
-* Enter <noOfPlayers> <noOfPoints> in 'Program Arguments' tab(Enter numbers of players and number of points to accumulate)
+* Enter <noOfPlayers> <noOfPoints> in 'Program Arguments' tab(Enter numbers of players and number of points to accumulate) and click Run
 * Follow the instructions provided in console
 e.g: Press key r followed by enter to roll dice.
 
